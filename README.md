@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=FernandaLia&theme=dark&show_icons=true">
   </td>
   <td>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaLia&langs_count=6&theme=dark"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaLia&langs_count=8&theme=dark"> 
   </td>
 </table>
 <div>
